@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\timot\source\repos\CipherRD\main.c(81,9): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\timot\source\repos\CipherRD\main.c(81,9): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+C:\Users\timot\source\repos\CipherRD\main.c(81,9): warning C4566: character represented by universal-character-name '\u015B' cannot be represented in the current code page (1252)
+C:\Users\timot\source\repos\CipherRD\main.c(94,10): warning C4566: character represented by universal-character-name '\u0144' cannot be represented in the current code page (1252)
+C:\Users\timot\source\repos\CipherRD\main.c(94,10): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+  CipherRD.vcxproj -> C:\Users\timot\source\repos\CipherRD\Debug\CipherRD.exe
