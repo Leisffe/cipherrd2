@@ -1,4 +1,3 @@
 # cipherrd2
 
-
-xD no
+Project for C classes.
